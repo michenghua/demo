@@ -1,0 +1,14 @@
+{
+    "name": "michenghua/demo",
+    "description": "compser learn",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mch",
+            "email": "12073773737@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
